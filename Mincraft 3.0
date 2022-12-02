@@ -1,0 +1,17 @@
+player.onChat("run", function () {
+	
+})
+let name = "Jason";
+let age = 12;
+let cow = "yum";
+let hair = "brown";
+
+age = randint (1,100);
+// #5 -1 Varible isdo ou like ch
+if (age > 11 && hair == "brown"){
+    player.say("you hair looks bad lol;") 
+
+}else { 
+// than this happens
+player.say("your hair looks so good Im might have to say good bye");
+}
